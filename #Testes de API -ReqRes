@@ -1,17 +1,29 @@
-# Sobre
-Testes manuais e automatizados (assertions)
-GET,POST,PUT e DELETE na API publica ReqRe
+# Projeto QA - Testes de API com Postman
+
+## Sobre o projeto
+
+Projeto desenvolvido para praticar testes de API utilizando Postman.
+
+## Objetivo
+
+Validar endpoints de login, cadastro e consulta de usuários, aplicando conceitos de Quality Assurance.
+
+## Ferramentas utilizadas
+
+- Postman
+- GitHub
 
 ## Cenários testados
--Listagem de Usuário
-- Busca de Usuário por ID
-- Criação de usuário
-- Atualização de usuário
-- Remoção de usuário
 
-## Ferramentas
--Postman
+- Login válido
+- Login inválido
+- Cadastro de usuário
+- Consulta de usuários
+- Validação de status code
 
-##Como executar
-1. Importe o aquivo collection.json no Postman
-2. Clique em "RUN collection"
+## Estrutura do projeto
+
+- collections
+- test-cases
+- bug-reports
+- evidencias
