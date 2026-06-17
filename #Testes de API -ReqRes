@@ -1,0 +1,17 @@
+# Sobre
+Testes manuais e automatizados (assertions)
+GET,POST,PUT e DELETE na API publica ReqRe
+
+## Cenários testados
+-Listagem de Usuário
+- Busca de Usuário por ID
+- Criação de usuário
+- Atualização de usuário
+- Remoção de usuário
+
+## Ferramentas
+-Postman
+
+##Como executar
+1. Importe o aquivo collection.json no Postman
+2. Clique em "RUN collection"
